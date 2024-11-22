@@ -1,1 +1,1 @@
-ROS2 - Robotic Operation System Adventure Repo
+ROS2 - Robotic Operating System Adventure Repo
